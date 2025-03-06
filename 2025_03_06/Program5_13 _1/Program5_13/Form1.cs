@@ -19,41 +19,38 @@ namespace Program5_13
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Random rand = new Random();
-            StringWriter outputFile; //宣告StreamWriter物件
-            int count;
 
             try
             {
                 if (saveFileDialog1.ShowDialog() == DialogResult.OK)
                 {
-                    outputFile = File.CreateText("number.txt");
-                    if (int.TryParse(textBox1.Text, out count))
+                    using (StreamWriter outputFile = new StreamWriter(saveFileDialog1.FileName)) // 使用 SaveFileDialog 指定的檔案
                     {
-                        for (int i = 0; i < count; i++)
+                        if (int.TryParse(textBox1.Text, out int count)) // 直接在此宣告 count
                         {
-                            outputFile.WriteLine(rand.Next(100) + 1);
+                            Random rand = new Random(); // 確保 rand 已宣告
+                            for (int i = 0; i < count; i++)
+                            {
+                                outputFile.WriteLine(rand.Next(100) + 1);
+                            }
+                            MessageBox.Show("檔案已建立");
                         }
-                        outputFile.Close();
-                        MessageBox.Show("檔案已建立");
-                    }
-                    else
-                    {
-                        MessageBox.Show("請輸入數字");
-                    }
-
+                        else
+                        {
+                            MessageBox.Show("請輸入有效的數字");
+                        }
+                    } // using 會自動關閉檔案
                 }
                 else
                 {
                     MessageBox.Show("你按下取消");
                 }
-                
-               
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message); //顯示錯誤訊息
+                MessageBox.Show("發生錯誤：" + ex.Message); // 顯示更友善的錯誤訊息
             }
+
         }
     }
-}
+    }
