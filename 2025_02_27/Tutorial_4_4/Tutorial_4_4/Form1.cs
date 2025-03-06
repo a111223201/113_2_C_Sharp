@@ -28,7 +28,7 @@ namespace Tutorial_4_4
                 else
                 {
                     MessageBox.Show("ªo¯Ó½Ð¿é¤J¼Æ¦r");
-                    gastextBox2.Focus();
+                    gastextBox2.Focus(); 
                     gastextBox2.Text = "";
                 }
             }
