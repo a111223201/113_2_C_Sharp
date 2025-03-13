@@ -8,3 +8,13 @@ C:\Users\user\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x8
 C:\Users\user\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13_1.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.exe
 C:\Users\user\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\bin\Debug\Program5_13.exe.config
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\bin\Debug\Program5_13.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\bin\Debug\Program5_13.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13_1.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13_1.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13_1.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_03_06\Program5_13 _1\Program5_13\obj\x86\Debug\Program5_13.pdb

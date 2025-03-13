@@ -25,7 +25,7 @@ namespace Program5_14
             int temp;
             try
             {
-                inputFile = File.OpenText("NUMBER.txt"); //開啟檔案
+                inputFile = File.OpenText("NUMBERS.txt"); //開啟檔案
                 while (!inputFile.EndOfStream)//當沒有讀到檔案結尾時(代表檔案還有資料)
                 {
                     count++;
