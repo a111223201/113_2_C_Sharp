@@ -18,7 +18,7 @@ namespace Program6_10
             InitializeComponent();
         }              
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e) // 程式載入時執行
         {
             getCompChoice();
         }
