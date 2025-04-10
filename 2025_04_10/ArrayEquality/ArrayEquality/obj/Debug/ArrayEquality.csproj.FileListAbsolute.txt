@@ -1,0 +1,10 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\ArrayEquality.exe.config
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\ArrayEquality.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\ArrayEquality.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\ArrayEquality.pdb
