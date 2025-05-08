@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\2025_05_08\\tutorial 8-2\\telephone format\\telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\telephone format\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.Designer.cs",
+              "RelativeToolTip": "Telephone Format\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:32:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Form1.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs",
+              "RelativeToolTip": "Telephone Format\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:06:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Form1.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Telephone Format\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:06:03.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
